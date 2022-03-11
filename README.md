@@ -8,7 +8,7 @@ Table of Contents
 ----
 This program was written on [**Ruby**](https://www.ruby-lang.org/en/). It is simple implementation of [**hangman**](https://en.wikipedia.org/wiki/Hangman_(game)) to play in console. Functionality is _obvious_.
 
-## View
+#### View
 ```
 Всем привет!
 Слово: __ __ __ __ __ __ __
