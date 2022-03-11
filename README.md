@@ -27,8 +27,7 @@ This program was written on [**Ruby**](https://www.ruby-lang.org/en/). It is sim
 Ошибки (0): 
 У вас осталось ошибок: 7
 
-Введите следующую букву: 
-
+Введите следующую букву:
 ```
 
 <a name="edit"><h3>How to edit word dictionary</h3></a>
@@ -57,7 +56,7 @@ sudo apt install ruby git
 ```
 clone repo: 
 ```
-git clone https://github.com/moonmeander47/hangman.git && cd magic_ball
+git clone https://github.com/moonmeander47/hangman.git && cd hangman
 ```
 then you can easily enjoy with:
 ```
