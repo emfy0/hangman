@@ -58,7 +58,11 @@ clone repo:
 ```
 git clone https://github.com/moonmeander47/hangman.git && cd hangman
 ```
-then you can easily enjoy with:
+then you can easily enjoy with (1st run):
 ```
-ruby main.rb
+bundle install && bundle exec ruby main.rb
+```
+other runs:
+```
+bundle exec ruby main.rb
 ```
